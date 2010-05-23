@@ -1,0 +1,14 @@
+Author: chpwn <chpwn@xuzz.net>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: ProTapper
+Package: com.chpwn.protapper
+Section: System
+Pre-Depends: firmware (>= 3.0)
+Depends: mobilesubstrate, preferenceloader (>= 1.1)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Palm Pre/SimFinger style tapper :).
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protapperDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protapperDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: chpwn
